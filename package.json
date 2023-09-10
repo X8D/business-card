@@ -1,13 +1,13 @@
 {
-    "name": "rahikhan",
+    "name": "cyberlife",
     "version": "2.2.2",
-    "author": "Rahi Khan <rahikhan360@gmail.com> (https://rahikhan.gtsb.io)",
-    "description": "A personal card for Rahi Khan",
+    "author": "Andrei Romanov <romanov.and@gmail.com> (https://cyberlife.dev)",
+    "description": "A personal card for Andrei Romanov",
     "main": "card.js",
     "bin": "./card.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rahi-khan/npx_card.git"
+        "url": "https://github.com/X8D/business-card.git"
     },
     "scripts": {
         "setup": "ncu -u && npm i",
